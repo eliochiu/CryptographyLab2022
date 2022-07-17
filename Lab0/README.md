@@ -1,1 +1,1 @@
-Lab0 : Number theroy and finite fields
+Lab0 : Number theroy and Finite fields
